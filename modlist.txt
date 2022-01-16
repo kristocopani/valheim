@@ -1,2 +1,12 @@
+BetterPickupNotifications.dll
+CharacterEdit.dll
+EquipmentAndQuickSlots.dll
+FarmGrid.dll
+HitboxFix.dll
+InstantMonsterDrop.dll
+ShowContainerContents.dll
+SimpleSort.dll
+SkToolboxValheim.dll
+SmartContainers.dll
+TrashItems.dll
 ValheimPlus.dll
-asdf.dll
