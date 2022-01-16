@@ -1,3 +1,4 @@
+ABearCodes.Valheim.SimpleRecycling.dll
 BetterPickupNotifications.dll
 CharacterEdit.dll
 EquipmentAndQuickSlots.dll
