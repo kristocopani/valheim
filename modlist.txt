@@ -2,6 +2,7 @@ BetterPickupNotifications.dll
 CharacterEdit.dll
 EquipmentAndQuickSlots.dll
 FarmGrid.dll
+FloatingItems.dll
 HitboxFix.dll
 InstantMonsterDrop.dll
 ShowContainerContents.dll
@@ -9,4 +10,5 @@ SimpleSort.dll
 SkToolboxValheim.dll
 SmartContainers.dll
 TrashItems.dll
+ValheimPerformanceOptimizations.dll
 ValheimPlus.dll
