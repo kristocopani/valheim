@@ -4,13 +4,11 @@ aedenthorn.ShowContainerContents.cfg
 aedenthorn.SimpleSort.cfg
 BepIn.Sarcen.FarmGrid.cfg
 BepInEx.cfg
-com.Skrip.SkToolbox.cfg
 dev.ontrigger.vpo.cfg
 flueno.SmartContainers.cfg
 hitbox.fix.cfg
 ishid4.mods.betterarchery.cfg
 pfhoenix.betterpickupnotifications.cfg
-randyknapp.mods.auga.cfg
 randyknapp.mods.equipmentandquickslots.cfg
 valheim_plus.cfg
 virtuacode.valheim.trashitems.cfg
